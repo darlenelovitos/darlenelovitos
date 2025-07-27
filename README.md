@@ -35,7 +35,7 @@
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
 </div>
 
----
+<!-- --- -->
 
 <div align="center">
 
