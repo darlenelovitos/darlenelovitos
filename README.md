@@ -37,13 +37,6 @@
 
 <!-- --- -->
 
-<div align="center">
-
-<h3>📊 GitHub Stats</h3>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=darlenelovitos&show_icons=true&locale=en" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=darlenelovitos" alt="GitHub Streak"/>
-</div>
-
 ---
 
 <div align="center">
