@@ -8,7 +8,7 @@
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
-👀 Passionate about digital marketing, UI/UX designing, programming, and solving real-world problems with code.  <br>
+👀 Passionate about digital marketing and solving real-world problems with code.  <br>
 🌱 Currently learning <b>Laravel</b>
 
 </div>
