@@ -1,1 +1,40 @@
+name: Update Dev Quote
 
+on:
+  schedule:
+    # Runs every day at 8:00 AM UTC
+    - cron: '0 8 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+        
+    - name: Update README with new quote
+      run: python scripts/update_quote.py
+      
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🔄 Daily quote update"
+          git push
+        fi
