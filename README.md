@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Knowledge is power."* - **Francis Bacon**
+*"First, solve the problem. Then, write the code."* - **John Johnson**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
