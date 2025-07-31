@@ -9,7 +9,7 @@
 
 <h3>🚀 About Me</h3>
 👀 Passionate about digital marketing and solving real-world problems with code.  <br>
-🌱 Currently learning <b>Laravel</b>
+🌱 Currently studying <b>Information Technology</b>
 
 </div>
 
