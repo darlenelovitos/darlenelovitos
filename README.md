@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Ruby is rubbish! PHP is phpantastic!"* - **Nikita Popov**
+*"Knowledge is power."* - **Francis Bacon**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
