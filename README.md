@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Knowledge is power."* - **Francis Bacon**
+*"Code is like humor. When you have to explain it, it's bad."* - **Cory House**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
