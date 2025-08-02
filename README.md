@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"The most disastrous thing that you can ever learn is your first programming language."* - **Alan Kay**
+*"The best error message is the one that never shows up."* - **Thomas Fuchs**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
