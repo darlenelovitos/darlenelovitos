@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Simplicity is the soul of efficiency."* - **Austin Freeman**
+*"Before software can be reusable it first has to be usable."* - **Ralph Johnson**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
