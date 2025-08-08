@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Before software can be reusable it first has to be usable."* - **Ralph Johnson**
+*"Clean code always looks like it was written by someone who cares."* - **Robert C. Martin**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
