@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Clean code always looks like it was written by someone who cares."* - **Robert C. Martin**
+*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* - **Martin Fowler**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
