@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"A language that doesn't affect the way you think about programming is not worth knowing."* - **Alan Perlis**
+*"Before software can be reusable it first has to be usable."* - **Ralph Johnson**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
