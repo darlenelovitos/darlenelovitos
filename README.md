@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Knowledge is power."* - **Francis Bacon**
+*"A language that doesn't affect the way you think about programming is not worth knowing."* - **Alan Perlis**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
