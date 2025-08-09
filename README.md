@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"A language that doesn't affect the way you think about programming is not worth knowing."* - **Alan Perlis**
+*"The most important single aspect of software development is to be clear about what you are trying to build."* - **Bjarne Stroustrup**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
