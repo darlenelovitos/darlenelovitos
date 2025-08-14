@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Make it work, make it right, make it fast."* - **Kent Beck**
+*"First, solve the problem. Then, write the code."* - **John Johnson**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
