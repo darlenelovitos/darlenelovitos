@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away."* - **Antoine de Saint-Exupery**
+*"Code never lies, comments sometimes do."* - **Ron Jeffries**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
