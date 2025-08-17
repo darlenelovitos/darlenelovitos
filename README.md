@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Code never lies, comments sometimes do."* - **Ron Jeffries**
+*"Make it work, make it right, make it fast."* - **Kent Beck**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
