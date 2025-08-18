@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Make it work, make it right, make it fast."* - **Kent Beck**
+*"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away."* - **Antoine de Saint-Exupery**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
