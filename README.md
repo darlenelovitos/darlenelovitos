@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Programming isn't about what you know; it's about what you can figure out."* - **Chris Pine**
+*"Clean code always looks like it was written by someone who cares."* - **Robert C. Martin**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
