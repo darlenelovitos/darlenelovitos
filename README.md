@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Experience is the name everyone gives to their mistakes."* - **Oscar Wilde**
+*"Code never lies, comments sometimes do."* - **Ron Jeffries**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
