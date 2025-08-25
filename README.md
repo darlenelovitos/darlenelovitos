@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"The most disastrous thing that you can ever learn is your first programming language."* - **Alan Kay**
+*"Clean code always looks like it was written by someone who cares."* - **Robert C. Martin**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
