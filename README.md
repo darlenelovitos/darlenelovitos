@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Experience is the name everyone gives to their mistakes."* - **Oscar Wilde**
+*"Programming isn't about what you know; it's about what you can figure out."* - **Chris Pine**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
