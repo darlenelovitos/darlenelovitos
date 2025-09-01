@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"The most disastrous thing that you can ever learn is your first programming language."* - **Alan Kay**
+*"Programming isn't about what you know; it's about what you can figure out."* - **Chris Pine**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
