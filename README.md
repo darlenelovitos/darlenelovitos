@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Knowledge is power."* - **Francis Bacon**
+*"Code never lies, comments sometimes do."* - **Ron Jeffries**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
