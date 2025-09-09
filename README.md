@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Before software can be reusable it first has to be usable."* - **Ralph Johnson**
+*"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."* - **Dan Salomon**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
