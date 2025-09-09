@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"The most important single aspect of software development is to be clear about what you are trying to build."* - **Bjarne Stroustrup**
+*"Before software can be reusable it first has to be usable."* - **Ralph Johnson**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
