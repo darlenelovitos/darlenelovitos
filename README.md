@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."* - **Dan Salomon**
+*"Ruby is rubbish! PHP is phpantastic!"* - **Nikita Popov**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
