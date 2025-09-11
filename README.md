@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Make it work, make it right, make it fast."* - **Kent Beck**
+*"Knowledge is power."* - **Francis Bacon**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
