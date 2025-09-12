@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Knowledge is power."* - **Francis Bacon**
+*"The most disastrous thing that you can ever learn is your first programming language."* - **Alan Kay**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
