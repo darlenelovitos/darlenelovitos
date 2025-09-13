@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"The most disastrous thing that you can ever learn is your first programming language."* - **Alan Kay**
+*"Code never lies, comments sometimes do."* - **Ron Jeffries**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
