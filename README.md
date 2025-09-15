@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Experience is the name everyone gives to their mistakes."* - **Oscar Wilde**
+*"Knowledge is power."* - **Francis Bacon**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
