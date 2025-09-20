@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Experience is the name everyone gives to their mistakes."* - **Oscar Wilde**
+*"Clean code always looks like it was written by someone who cares."* - **Robert C. Martin**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
