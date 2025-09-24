@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* - **Martin Fowler**
+*"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away."* - **Antoine de Saint-Exupery**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
