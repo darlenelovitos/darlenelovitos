@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Simplicity is the soul of efficiency."* - **Austin Freeman**
+*"Java is to JavaScript what car is to Carpet."* - **Chris Heilmann**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
