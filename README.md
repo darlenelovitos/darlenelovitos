@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Java is to JavaScript what car is to Carpet."* - **Chris Heilmann**
+*"Make it work, make it right, make it fast."* - **Kent Beck**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
