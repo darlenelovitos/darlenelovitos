@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"The most important single aspect of software development is to be clear about what you are trying to build."* - **Bjarne Stroustrup**
+*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* - **Martin Fowler**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
