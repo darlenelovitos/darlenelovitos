@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Before software can be reusable it first has to be usable."* - **Ralph Johnson**
+*"Knowledge is power."* - **Francis Bacon**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
