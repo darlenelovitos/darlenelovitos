@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Java is to JavaScript what car is to Carpet."* - **Chris Heilmann**
+*"Before software can be reusable it first has to be usable."* - **Ralph Johnson**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
