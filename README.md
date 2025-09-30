@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"Knowledge is power."* - **Francis Bacon**
+*"Java is to JavaScript what car is to Carpet."* - **Chris Heilmann**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
