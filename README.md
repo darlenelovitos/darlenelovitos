@@ -20,6 +20,7 @@
 ✅ Java <br> 
 ✅ HTML & CSS <br> 
 ✅ Databases
+✅ Data Analytics Essentials
 </div>
 
 ---
