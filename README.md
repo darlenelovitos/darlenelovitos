@@ -19,7 +19,7 @@
 <h3>📚 Certifications</h3>
 ✅ Java <br> 
 ✅ HTML & CSS <br> 
-✅ Databases
+✅ Databases <br> 
 ✅ Data Analytics Essentials
 </div>
 
