@@ -4,7 +4,7 @@
 
 ## 💭 Daily Dev Inspiration
 <!-- QUOTE:START -->
-*"The most disastrous thing that you can ever learn is your first programming language."* - **Alan Kay**
+*"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away."* - **Antoine de Saint-Exupery**
 <!-- QUOTE:END -->
 
 <h3>🚀 About Me</h3>
